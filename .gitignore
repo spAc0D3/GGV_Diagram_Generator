@@ -1,0 +1,10 @@
+# MATLAB 自动生成的备份文件
+*.asv
+
+# 个人日志
+sptLog.md
+
+# 系统垃圾文件
+Thumbs.db
+.DS_Store
+desktop.ini

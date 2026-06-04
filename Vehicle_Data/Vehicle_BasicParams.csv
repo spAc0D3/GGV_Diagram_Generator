@@ -1,0 +1,17 @@
+Symbol,Value,Unit,Description
+m_fsae,220,kg,VehicleMass
+m_acccumulator,50,kg,AccumulatorMass
+m_aero,15,kg,AerodynamicPackageMass
+m_driver,70,kg,DriverMass
+m_f_Ratio,0.48,1,FrontAxleLoadRatio
+WheelBase,1580,mm,Wheelbase
+TrackWidth_f,1200,mm,FrontTrackWidth
+TrackWidth_r,1180,mm,RearTrackWidth
+CoG_h,285,mm,CentreOfGravityHeight
+Izz,1200,kg·m^2,YawInertia
+R_w,203,mm,TireRollingRadius
+GearRatio,43/11,1,GearRatio
+rh_std,50,mm,StandardRideHeightWithDriver
+roll_grad,0.75,deg/g,RollGradient
+pitch_grad,0.75,deg/g,PitchGradient
+heave_stif,0.02,mm/N,HeaveGradient
