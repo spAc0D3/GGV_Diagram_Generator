@@ -1,0 +1,3 @@
+[submodule "external/FSAE-VD-Personal-Scripts"]
+	path = external/FSAE-VD-Personal-Scripts
+	url = https://github.com/Alphabet1671/FSAE-VD-Personal-Scripts.git
