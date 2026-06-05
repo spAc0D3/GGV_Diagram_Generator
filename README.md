@@ -1,10 +1,10 @@
-# 2026 GGV Project
+# GGV Diagram Generator for FSAE Electric
 
 GGV (G-G-Velocity) Diagram Generator for FSAE electric, in development. Subsequent development will focus on creating a lap time simulation program.
 
 ## Dependencies
 
-- Using the UniTire model for tire modeling (`https://github.com/Alphabet1671/FSAE-VD-Personal-Scripts/Yaw Dynamics/Tire Model/`).
+Using the UniTire model for tire modeling (`https://github.com/Alphabet1671/FSAE-VD-Personal-Scripts/Yaw Dynamics/Tire Model/`).
 
 ## Specs for Simulation
 
