@@ -4,8 +4,7 @@ GGV (G-G-Velocity) Diagram Generator for FSAE electric, in development. Subseque
 
 ## Dependencies
 
-- [FSAE-VD-Personal-Scripts](https://github.com/Alphabet1671/FSAE-VD-Personal-Scripts) — `external/FSAE-VD-Personal-Scripts/`
-  - Using the UniTire model for tire modeling.
+- Using the UniTire model for tire modeling (`https://github.com/Alphabet1671/FSAE-VD-Personal-Scripts/Yaw Dynamics/Tire Model/`).
 
 ## Specs for Simulation
 
@@ -16,4 +15,3 @@ GGV (G-G-Velocity) Diagram Generator for FSAE electric, in development. Subseque
 | `data/Vehicle_AeroMap_Yaw.csv` | Aerodynamic coefficients vs Yaw (Not yet used) |
 | `data/Vehicle_Motor_PeakTorque_EMRAX228.csv` | EMRAX 228 Peak Torque |
 | `data/Vehicle_Motor_Efficiency_EMRAX228.csv` | EMRAX 228 Efficiency MAP |
-| `external/FSAE-VD-Personal-Scripts/` | Tire Model (UniTire), from Alphabet1671 (MIT License) |
